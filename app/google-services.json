@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "791156451221",
+    "firebase_url": "https://school-firebase-b1055.firebaseio.com",
+    "project_id": "school-firebase-b1055",
+    "storage_bucket": "school-firebase-b1055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791156451221:android:23bbdc70aafc258a",
+        "android_client_info": {
+          "package_name": "com.topdsr2.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791156451221-h6o5acaleda6uke6bu6ic66karmpth8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topdsr2.firebasedemo",
+            "certificate_hash": "3605687aa0c19ceb43d979b85522bd39789b8ddb"
+          }
+        },
+        {
+          "client_id": "791156451221-pptbesv1s8ongvvrbc0c6qasvfnobt34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGDksrMDczPmNh4MUg9u-ZMW7pxAw4vGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791156451221-pptbesv1s8ongvvrbc0c6qasvfnobt34.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791156451221-4ilecfndqdk1s70b1gsvnnhjbu8iedjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.JillYeh.school-firebase"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
